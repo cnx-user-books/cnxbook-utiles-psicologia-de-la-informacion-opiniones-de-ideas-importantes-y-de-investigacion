@@ -1,3 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11156</md:content-id>  <md:title>Útiles Psicología de la Información (Opiniones de Ideas Importantes y de Investigación)</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>es</md:language>      <md:uuid>7de3cb72-1fa2-4e3a-bc26-b962504995e0</md:uuid>
-<md:slug>utiles-psicologia-de-la-informacion-opiniones-de-ideas-importantes-y-de-investigacion</md:slug>
-</metadata>  <col:content>          <col:module document="m33276"/>                            <col:module document="m33277"/>                            <col:module document="m33278"/>                            <col:module document="m33279"/>                            <col:module document="m33280"/>                            <col:module document="m33281"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Pettinelli">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11156</md:content-id>
+    <md:title>&#xDA;tiles Psicolog&#xED;a de la Informaci&#xF3;n (Opiniones de Ideas Importantes y de Investigaci&#xF3;n)</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>es</md:language>
+    <md:uuid>7de3cb72-1fa2-4e3a-bc26-b962504995e0</md:uuid>
+    <md:slug>utiles-psicologia-de-la-informacion-opiniones-de-ideas-importantes-y-de-investigacion</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m33276"/>
+    <col:module document="m33277"/>
+    <col:module document="m33278"/>
+    <col:module document="m33279"/>
+    <col:module document="m33280"/>
+    <col:module document="m33281"/>
+  </col:content>
+</col:collection>
